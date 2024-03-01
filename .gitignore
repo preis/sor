@@ -1,0 +1,11 @@
+﻿__pycahe__/
+*.py[cod]
+*$py.class
+
+.git/
+
+.idea/
+
+.venv/
+
+.env
